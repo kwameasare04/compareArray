@@ -1,7 +1,7 @@
 const a = [1, 2, 3];
 const b = [1, 2, 3];
 
-//console.log(a === b); // false
+//console.log(a === b); // false, although a and b have the same values they point to different places in memory so are not identical.
 
 /* Create a function "arraysAreEqual" with two parameters "arrayOne" and "arrayTwo". 
 
